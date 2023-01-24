@@ -2,16 +2,15 @@
 
 
 
-#### I'm a Frontend developer from France (Paris) working at EY Fabernovel.
+<h3 align="center"> I'm a Frontend developer from France (Paris) working at EY Fabernovel.</h3>
+<br/>
+  
+<div align="center">
+  <a href="https://streak-stats.demolab.com?user=williamgoulois&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly">
+    <img align="center" src="https://streak-stats.demolab.com?user=williamgoulois&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly" />
+  </a>
+</div>
 
-### Stats
-
-<a href="https://streak-stats.demolab.com?user=williamgoulois&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly">
-  <img align="center" src="https://streak-stats.demolab.com?user=williamgoulois&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api?username=williamgoulois&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,prs,issues,contribs&custom_title=William%20Annual%20Commits" >
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=williamgoulois&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,prs,issues,contribs&custom_title=William%20Annual%20Commits" style="margin-bottom: 32px;" />
-</a>
 
 
 <!--
@@ -49,6 +48,10 @@ Here are some ideas to get you started:
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
+</a>
+
+<a href="https://github-readme-stats.vercel.app/api?username=williamgoulois&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&card_width=300px&hide=stars,prs,issues,contribs&custom_title=William%20Annual%20Commits" >
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=williamgoulois&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&card_width=300px&hide=stars,prs,issues,contribs&custom_title=William%20Annual%20Commits" />
 </a>
 
 
